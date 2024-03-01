@@ -1,1 +1,1 @@
-console.log("This is my first JS file");
+console.log("This is my first js from github");
